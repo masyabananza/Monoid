@@ -1,0 +1,50 @@
+body {
+  background-color: black;
+  font-family: monoid;
+}
+h1 {
+  margin-left: 88px;
+  margin-top: 110px;
+  font-size: 160px;
+  color: #00FF29;
+}
+p {
+  font-size: 48px;
+  color: white;
+  margin-left: 150px;
+  margin-top: 110px;
+}
+h2 {
+  margin-left: 88px;
+  margin-top: 110px;
+  color: #00FF29;
+  font-size: 96px;
+}
+p {
+  font-size: 48px;
+}
+.p {
+  position: relative;
+  margin-top: 200px;
+}
+.group1 {
+  margin-left: 180px;
+  margin-top: 70px;
+}
+.group2 {
+  margin-top: 70px;
+}
+.group3 {
+  margin-top: 70px;
+  margin-left: 50px;
+}
+hr {
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+h3 {
+  font-size: 24px;
+  color: white;
+  margin-left: 88px;
+  margin-bottom: 70px;
+}
